@@ -1,0 +1,31 @@
+
+.respuestacorrecta
+{
+	color: purple;
+}
+
+.facil
+{
+	color: green;
+}
+
+.media
+{
+	color: blue;
+}
+
+.dificil
+{
+	color: red;
+}
+
+#banner
+{
+	text-align:center;
+}
+
+body
+{
+	background: url(./img/fondo.png) repeat-x;
+}
+

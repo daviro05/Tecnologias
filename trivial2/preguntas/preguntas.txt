@@ -1,0 +1,507 @@
+ 1.    ¿En qué deporte se usa tiza?.
+
+ 2.    ¿Cuántas manos tiene un caballo?
+
+ 3.    ¿Qué instrumento musical tiene nombre y forma geométricos?
+
+ 4.    ¿Cuáles son las dos primeras palabras de la Biblia?
+
+ 5.    ¿Quién escribió "El Diario de Ana Frank"?
+
+ 6.    ¿Cómo se llaman las crías de la mula?
+
+ 7.    ¿Cuál es el limite de edad establecido para participar en los Juegos Olímpicos?
+
+ 8.    ¿Qué isla del Caribe tiene nombre de flor?
+
+ 9.    ¿Qué capital española tiene cinco veces la misma vocal "a"?
+
+10.    ¿Cuántas capitales de provincia españolas empiezan por "V"?
+
+11.    ¿Qué órgano segrega la hormona insulina?
+
+12.    ¿Con qué nombre firmaba Pablo Picasso sus pinturas?
+
+13.    ¿En qué provincia española se halla la ciudad de Jabugo, famosa por sus exquisitos jamones?
+
+14.    ¿Cuál es la residencia oficial más grande del mundo?
+
+15.    ¿Qué lado de los libros suele tener los números pares?
+
+16.    ¿Cuál es el fruto del roble?
+
+17.    ¿Fue Felipe V de España hijo de Felipe IV?
+
+18.    ¿Cuál es la moneda de Suiza?
+
+19.    ¿Cuál de los cinco sentidos se desarrolla el primero?
+
+20.    ¿Cuántas pirámides hay en Egipto: 10, 1.000, o 10.000?
+
+21.    ¿Es la araña un insecto?
+
+22.    ¿Cuál es el único mamífero con cuatro rodillas?
+
+23.    ¿Cuántos jugadores se pueden sustituir en un partido de fútbol amistoso?
+
+24.    ¿Cuál es, en extensión, el quinto país más grande del mundo?
+
+25.    ¿De qué color es la pelota de hockey sobre hierba?
+
+26.    ¿En qué árbol crecen los dátiles?
+
+27.    ¿Qué tienen las ranas en la boca que no tienen los sapos?
+
+28.    ¿Con qué título eclesiástico se conoce vulgarmente un hematoma?
+
+29.    ¿Cuál es la causa de cada muerte humana?
+
+30.    ¿Pueden nadar los gorilas?
+
+31.    ¿Cuál es el primer día de la Cuaresma?
+
+32.    ¿Qué hace una persona alrededor de 295 veces durante la comida?
+
+33.    ¿Qué diferencia existe entre un asno y un burro?
+
+34.    ¿Cómo se dice vino en italiano?
+
+35.    ¿Cuál es el ojo defectuoso de Popeye?
+
+36.    ¿Cuántas personas se refugiaron en el Arca de Noé?
+
+37.    ¿Qué pie puso primero Neil Amstrong sobre la Luna?
+
+38.    ¿Cuál es el segundo idioma más hablado del mundo?
+
+39.    ¿Qué representan las siglas P.A.M.D.B.?
+
+40.    ¿Qué es más valioso un brillante o un diamante?
+
+41.    ¿Qué rasgo facial no tiene la Mona Lisa?
+
+42.    ¿Cuál es el signo de puntuación más usado?
+
+43.    ¿Cómo se transmiten más rápidamente las ondas sonoras, a través del agua o del aire?
+
+44.    ¿Cuál fue la primera ave domesticada?
+
+45.    ¿Cómo se conoce vulgarmente el encéfalo?
+
+46.    ¿Cuáles son los dos elementos esenciales del acero?
+
+47.    ¿Cuál es el único mamífero que no puede saltar?
+
+48.    ¿Cuál es el dedo más sensible de la mano?
+
+49.    ¿Con qué dos colores suele tener problemas un daltónico?
+
+50.    ¿Qué es el membrillero, un árbol o un arbusto?
+
+51.    ¿Qué otro nombre recibe el pingüino antártico?
+
+52.    ¿Cuál es el estado más extenso de los Estados Unidos?
+
+53.    ¿De qué país es la moneda considerada como la más difícil de falsificar?
+
+54.    ¿Cuál es la única capital de país europeo que comienza por "O"?
+
+55.    ¿Cuál era la nacionalidad de Marco Polo?
+
+56.    ¿Con qué se anuncia al mundo la elección de un nuevo Papa?
+
+57.    ¿Qué apóstol fue el primero en dar la noticia de la resurrección de Jesucristo?
+
+58.    ¿Qué tipo de calzado era utilizado normalmente por los gansters norteamericanos?
+
+59.    ¿Cómo se llaman los encargados de alisar el piso del ruedo entre toro y toro?
+
+60.    ¿Qué tres cargos firman un billete español?
+
+61.    ¿Qué significa la palabra "Dry" que aparece en las botellas de algunas bebidas alcohólicas?
+
+62.    ¿Son hereditarias las varices?
+
+63.    ¿Cuántos rusos han estado en la Luna?
+
+64.    ¿Qué día cae en el centro de un año no bisiesto?
+
+65.    ¿Qué cuatro sabores puede distinguir una persona?
+
+66.    ¿Qué órgano del cuerpo tiene los huesos más pequeños?
+
+67.    ¿Qué hacen los gorilas cuando se ponen nerviosos?
+
+68.    ¿Qué parte del ojo crece durante toda la vida?
+
+69.    ¿Qué es imposible mantener abierto mientras se estornuda?
+
+70.    ¿Dónde han nacido los que son pacenses?
+
+71.    ¿Cuál era el signo zodiacal de Jesucristo?
+
+72.    ¿Qué reina egipcia de la antigüedad se casó con dos de sus hermanos?
+
+73.    ¿Qué año sigue al uno antes de Cristo?
+
+74.    ¿Cuáles son las siglas de la Federación Internacional de Esgrima?
+
+75.    ¿Cómo se llama el objeto que se entrega en una carrera de relevos?
+
+76.    ¿Qué sota de la baraja española lleva, además de medias, calcetines?
+
+77.    ¿Cuál es la principal fuente de ingresos de Mónaco?
+
+78.    ¿Qué año sigue al 356 antes de Cristo?
+
+79.    ¿Por qué condimento pagan los chefs el precio más alto?
+
+80.    ¿Cómo se denomina al toro que no guarda una simetría perfecta entre sus astas?
+
+81.    ¿A qué lado se sitúan las copas de vino en la mesa?
+
+82.    ¿Qué elemento falta en esta relación de lanzamientos: peso, jabalina, disco y ...?
+
+83.    ¿En qué mano llevaba Charles Chaplin su bastón?
+
+84.    ¿Cuál es la enfermedad no contagiosa más común del mundo?
+
+85.    ¿Qué rasgo facial común contiene aproximadamente 550 pelos?
+
+86.    ¿Qué hay en el cuerpo humano en cantidad aproximada a 640?
+
+87.    ¿Cuál es el idioma más hablado en Bélgica?
+
+88.    ¿En qué país europeo se habla el magiar?
+
+89.    ¿Qué capital española tiene más vocales "o"?
+
+90.    ¿Qué dos capitales de provincia españolas empiezan por "O"?
+
+91.    ¿En qué fecha murió el general Franco?
+
+92.    ¿Quién está enterrado debajo del altar de la Basílica de San Pedro?
+
+93.    ¿Qué papa sucedió a Pablo VI?
+
+94.    ¿Qué parentesco tenían los apóstoles San Andrés y San Pedro?
+
+95.    ¿Qué político y militar israelí llevaba un parche en el ojo?
+
+96.    ¿Cuál es el idioma oficial de Austria?
+
+97.    ¿Qué alimento se menciona en el Padre Nuestro?
+
+98.    ¿De qué pez procede el auténtico caviar?
+
+99.    ¿Cuántas patas tiene una mosca común?
+
+100.    ¿Puede un deportista de 75 años participar en las Olimpíadas?
+
+101.    ¿Dónde está el Mar de la Tranquilidad?
+
+102.    ¿Qué país con monarquía es el más cercano a España?
+
+103.    ¿De qué nacionalidad es un siciliano?
+
+104.    ¿Cuál es el país más montañoso de Europa?
+
+105.    ¿Qué reyes españoles aparecen en los diferentes billetes de 5.000 pesetas?
+
+106.    ¿Cuántos días duro el matrimonio de Hitler y Eva Braun?
+
+107.    ¿Qué mide 25 cm. de alto, pesa tres kilos y medio y está bañado en oro?
+
+108.    ¿Con qué otro nombre se conoce a los oculistas?
+
+109.    ¿Existen en España especies de caza que mudan anualmente los cuernos?
+
+110.    ¿Qué animal tiene más músculos: la oruga, el hombre o el elefante?
+
+111.    ¿El archipiélago de Filipinas tiene menos de 1.000 islas, entre 1.000 y 7.000 o más de 7.000?
+
+112.    ¿Cuáles son las tres lenguas más habladas del mundo?
+
+113.    ¿Cuál es el límite de velocidad en las autopistas alemanas?
+
+114.    ¿Cómo se llamó a José Bonaparte en España?
+
+115.    ¿Qué deportistas se afeitan todo el cuerpo para ser más rápidos?
+
+116.    ¿Qué tres huesecillos del oído tienen nombre de herramientas?
+
+117.    ¿Cómo se llamarían los habitantes de la Luna si existiesen?
+
+118.    ¿Cuál es el disolvente más universal?
+
+119.    ¿De qué color son los huevos del cocodrilo?
+
+120.    ¿Cuándo son las sombras más cortas, en invierno o en verano?
+
+121.    ¿De qué color es la piel de los habitantes del Caúcaso?
+
+122.    ¿Qué nombre recibe la persona dedicada al estudio del vino?
+
+123.    ¿Qué término se aplica a la consistencia, densidad y sustancia de un vino?
+
+124.    ¿Qué virtud cardinal falta en esta relación: fortaleza, prudencia, templanza y ...?
+
+125.    ¿Qué contiene más cafeína: el café o la cola?
+
+126.    ¿Con qué frecuencia se reemplazan las células del cerebro?
+
+127.    ¿En qué viviendas humanas no hay nunca moscas?
+
+128.    ¿Cuántas calorías tiene un vaso de agua?
+
+129.    ¿Cuál de los cinco sentidos es menos sensible después de haber comido mucho?
+
+130.    ¿Qué número no puede ser representado con números romanos?
+
+131.    ¿Cuál es la provincia española más pequeña?
+
+132.    ¿Qué función vital no se puede hacer al mismo tiempo que deglutir?
+
+133.    ¿Cuál era la profesión de Moisés antes de ser llamado por Dios?
+
+134.    ¿Qué era Stalin: nombre, apellido o seudónimo?
+
+135.    ¿Con qué único material puede rayarse el diamante?
+
+136.    ¿Qué termino se utiliza para designar a un organismo que vive sobre otro o dentro de otro?
+
+137.    ¿Qué accidente geográfico se llama igual que la cuarta letra del alfabeto griego?
+
+138.    ¿Cuál es el primer país productor de café?
+
+139.    ¿Qué nombre se da a los guardias urbanos en Francia?
+
+140.    ¿Cuántas columnas tiene un boleto de quinielas de fútbol?
+
+141.    ¿Qué otro nombre recibe la acción de tomar la alternativa en el toreo?
+
+142.    ¿Qué islas aparecen en un billete de 1.000 pesetas?
+
+143.    ¿Qué vocablo francés se utiliza para designar al amante de la buena cocina?
+
+144.    ¿Qué otro nombre recibe un filete empanado?
+
+145.    ¿En cuántos tiempos se divide un partido de hockey sobre hielo?
+
+146.    ¿Qué equipo cierra el desfile inaugural de las Olimpíadas?
+
+147.    ¿En qué país europeo nació John McEnroe?
+
+148.    ¿Cómo se llama en tenis el punto siguiente al empate a 40?
+
+149.    ¿Cuántas filas de pelos tiene un gato en el bigote?
+
+150.    ¿De qué planta procede el ron?
+
+151.    ¿Beben las gaviotas agua de mar?
+
+152.    ¿De qué color son la hoz y el martillo en la bandera de la Unión Soviética?
+
+153.    ¿Qué profesión tenía Superman?
+
+154.    ¿Cuántos pedales tiene un piano de cola?
+
+155.    ¿Cuál es la ciudad de las góndolas?
+
+156.    ¿De qué color son generalmente las góndolas venecianas?
+
+157.    ¿Cómo se denomina la tensión alta?
+
+158.    ¿Qué mamífero vive más años?
+
+159.    ¿Cuánto tiempo duró la ovación más larga que después de una actuación le tributaron a Alfredo Kraus: 5 minutos, 15 minutos ó 48 minutos?
+
+160.    Al multiplicar 10 metros por 10 metros da 100 metros cuadrados. ¿Cuánto da 10 dólares por 10 dólares?
+
+161.    Si en el interior de un coche llevamos un globo, ¿hacia qué lado se movería el globo al tomar una curva a la derecha?
+
+162.    ¿Cómo se llama la abeja macho?
+
+163.    ¿Cómo se llama la zona que se encuentra entre el trópico de Capricornio y el de Cáncer?
+
+164.    ¿En qué dirección puede moverse la reina en ajedrez?
+
+165.    ¿Cuántos cuadraditos de colores hay en el "Cubo Mágico de Rubik"?
+
+166.    ¿En qué deporte se ponen en juego cada año alrededor de 25 millones de pelotas?
+
+167.    ¿Cuál era la nacionalidad del pintor Alberto Durero?
+
+168.    ¿De qué leche procede el queso de Burgos?
+
+169.    ¿Qué se mezcla con arcilla para fabricar la mina de un lápiz?
+
+170.    ¿Qué clase de animal es un ciervo volante?
+
+171.    ¿Cómo se llama el polígono regular de 11 lados?
+
+172.    La línea del Ecuador, ¿pasa por el Océano Índico?
+
+173.    ¿Cuántas bolas tiene el billar americano?
+
+174.    ¿Con cuántos países limita Mónaco?
+
+175.    En la Gioconda, la mano derecha se apoya sobre la izquierda, ¿o al revés?
+
+176.    ¿Cuántos años de casados se festejan en las bodas de diamante?
+
+177.    ¿Cuántas casillas se mueve el rey de ajedrez en el enroque largo?
+
+178.    ¿La pelota de qué deporte tiene 32 gajos?
+
+179.    ¿Rómulo mató a Remo, o fue al revés?
+
+180.    ¿Qué palo de la baraja española tiene el filete sin cortar?
+
+181.    ¿Cuántos tréboles hay en un ocho de tréboles?
+
+182.    ¿Qué parte de la anatomía femenina ha sido más idealizada por los poetas?
+
+183.    ¿Con qué nombre es más conocido el artista del Renacimiento Theotukopoulos?
+
+184.    ¿Cuál es el miembro más grande de la familia de los cerdos?
+
+185.    ¿Cuántas letras diferentes se usan en los números romanos?
+
+186.    ¿Cuál es órgano masculino de la flor? ¿El pistilo o el estambre?
+
+187.    ¿Dónde queda el mar de la tranquilidad?
+
+188.    ¿El cromosoma que determina si el sexo es masculino, es el X o el Y?
+
+189.    ¿Cuál es el que tiene dos colitas: el smoking o el frac?
+
+190.    ¿Qué diferencia hay entre un fósforo común y uno de seguridad?
+
+191.    ¿Cuántas agallas tiene un delfín?
+
+192.    Los títeres se manejan con hilos y las marionetas con una mano adentro, ¿o es al revés?
+
+193.    Un arma es de calibre "22". ¿Qué miden esos 22?
+
+194.    Laurel era el gordo y Hardy el flaco, ¿o al revés?
+
+195.    Sobre la mesa hay una moneda de un duro. ¿Cuántas otras monedas del mismo valor se pueden poner alrededor sin colocarse encima de otras?
+
+196.    ¿Cuál es el gas de la soda del sifón?
+
+197.    El quilate con respecto a los diamantes, ¿es una unidad de peso, de brillo o de pureza?
+
+198.    La vida promedio de una mosca es de cuatro días, de cuatro semanas o de cuatro meses?
+
+199.    Cuando en Argentina es primavera ¿qué es en Australia.?
+
+200.    ¿La araña es un insecto?
+
+201.    ¿Cuántas caras tiene un bolígrafo "bic"?
+
+202.    ¿Dónde está enterrado Cristóbal Colón?
+
+203.    ¿De dónde son los sombreros Panamá?
+
+204.    ¿Cuánto duró la Guerra de los Treinta Años?
+
+205.    ¿Cuánto duró la Guerra de los Cien Años?
+
+206.    ¿De qué están hechos los pinceles de pelo de camello?
+
+207.    ¿Qué tienen las arañas en la punta de sus patas?
+
+208.    ¿Qué dedo ponen los chinos entre los dos palillos que usan para comer?
+
+209.    La Gioconda, ¿está pintada sobre tela o sobre madera?
+
+210.    ¿Cuál es el plural de la palabra intríngulis?
+
+211.    ¿Cuál ha sido el primer electrodoméstico introducido en los hogares?
+
+212.    Un hombre, no llegando a ser cura, ¿puede llegar a ser Papa?
+
+213.    ¿De qué color es la malaquita?
+
+214.    La torre de Babel, ¿se construyó antes o después del Diluvio?
+
+215.    ¿Cuáles son de una sola pieza, los menhires o los dólmenes?
+
+216.    ¿Cuántas veces se casó Richard Burton con Liz Taylor?
+
+217.    ¿Cuántos son los profetas mayores de la Biblia?
+
+218.    ¿Hay alguna persona que no tenga ninguna cicatriz?
+
+219.    El año en el que el hombre llego a la luna, ¿tuvo algún martes y 13?
+
+220.    ¿Cómo se llama el caballo alado de la mitología griega?
+
+221.    ¿Qué altura aproximada tiene la Torre Eiffel parisina?
+
+222.    ¿Cuántos pares de costillas flotantes hay en el tórax?
+
+223.    ¿Dónde está el mar de las olas?
+
+224.    ¿Cuántas semicorcheas vale una redonda?
+
+225.    ¿Cuál es más larga, la milla marina o la terrestre?
+
+226.    ¿Cuáles son los apellidos de la Reina Fabiola de Bélgica?
+
+227.    ¿Cuál es el músculo más fuerte del cuerpo humano?
+
+228.    El corazón humano al bombear la sangre, ¿podría arrojarla hasta una distancia de 2 metros, 6 metros o 10 metros?
+
+229.    ¿Cuántos tornados ocurren al año, aproximadamente, en Estados Unidos: 100, 300 ó 700?
+
+230.    ¿Cuál es el segundo apellido del Presidente del Gobierno José Mª Aznar?
+
+231.    ¿Cuál es la religión mayoritaria de Etiopía?
+
+232.    ¿Cuántos años puede vivir un cisne?
+
+233.    ¿Cuál era el oficio de los Siete Enanitos?
+
+234.    ¿Qué significa la palabra francesa "brut" en una botella de vino?
+
+235.    ¿A qué país pertenece la isla "MUJERES"?
+
+236.    ¿Qué escritor aparecía en los billetes de 200 pesetas?
+
+237.    Usted tira hacia arriba una pelota, que alcanza su altura máxima en un segundo ¿cuánto tardará en caer de nuevo al suelo?
+
+238.    Un trozo caído del espacio ¿es un meteoro, o un meteorito?
+
+239.    ¿Cómo se llama el eclipse en que la Tierra está entre el sol y la luna? ¿lunar, solar, o qué?
+
+240.    ¿En qué mes celebran los rusos la Revolución de Octubre?
+
+241.    El 'Big Ben' del parlamento británico, ¿es la torre o sólo la campana?
+
+242.    ¿Cuál es el color simbólico del luto en Oriente?
+
+243.    ¿Qué animal "zurea"?
+
+244.    ¿Que descubrió Alfred Nobel?
+
+245.    ¿Quién era el mayor de los hermanos Marx?
+
+246.    Jack el Destripador, destripaba con la mano izquierda, ¿por qué?
+
+247.    ¿Cuál es la flor del naranjo?
+
+248.    ¿Donde está la "Casa Rosada"?
+
+249.    ¿Dónde nació el rey Juan Carlos I de España?
+
+250.    ¿Qué raza de perro tiene la lengua azul?
+
+251.    ¿Cuál es la ciudad de los contrastes?
+
+252.    ¿Contra qué chocó la nave soviética "Luna II" en 1959?
+
+253.    ¿Con qué otro nombre se le conocía al Estrecho de Gibraltar?
+
+254.    ¿Quién fue el último premio Nóbel de arquitectura?

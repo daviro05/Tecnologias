@@ -1,0 +1,16 @@
+
+
+#cabecera {width:100%;height:10%}
+
+#contenido {margin-left:2%;margin-right:2%}
+
+#izquierda{float: left}
+
+#derecha{float: right}
+
+#central{margin-left:20%;margin-right:20%}
+
+#modos{text-align: center;}
+
+#pie {clear:both}
+

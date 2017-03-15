@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE trivial[
+<!ELEMENT trivial (categoria*)>
+<!ELEMENT categoria (pregunta*)>
+<!ELEMENT pregunta (enunciado,respuesta)>
+<!ELEMENT enunciado (#PCDATA)>
+<!ELEMENT respuesta (#PCDATA)>
+<!ATTLIST categoria nombre CDATA #REQUIRED>
+<!ATTLIST pregunta numero CDATA #REQUIRED>
+<!ATTLIST pregunta dificultad CDATA #REQUIRED>
+<!ATTLIST respuesta id CDATA #REQUIRED>]>
+
+<?xml-stylesheet type="text/xsl" href="trivial.xsl"?>
+
+<trivial>	
+	<categoria nombre="ciencias">
+		<pregunta numero="0" dificultad="facil">
+			<enunciado>¿De dónde viene el cordero?</enunciado>
+			<respuesta id="respuesta">Oveja</respuesta>
+		</pregunta>
+		<pregunta numero="1" dificultad="facil">
+			<enunciado>Quién fue el primero en decir que la Tierra orbita alrededor del Sol?</enunciado>
+			<respuesta id="respuesta">Copernico</respuesta>
+		</pregunta>
+		<pregunta numero="2" dificultad="facil"> 
+			<enunciado>Cuál es el fruto del roble?</enunciado>
+			<respuesta id="respuesta">bellota</respuesta>
+		</pregunta>
+		<pregunta numero="3" dificultad="facil"> 
+			<enunciado>Pueden nadar los gorilas?</enunciado>
+			<respuesta id="respuesta">No</respuesta>
+		</pregunta>
+		<pregunta numero="4" dificultad="media">
+			<enunciado>Qué órgano segrega la hormona insulina?</enunciado>
+			<respuesta id="respuesta">pancreas</respuesta>
+		</pregunta>
+		<pregunta numero="5" dificultad="media">
+			<enunciado>Cuál es el único mamífero con cuatro rodillas?</enunciado>
+			<respuesta id="respuesta">elefante</respuesta>
+		</pregunta>
+		<pregunta numero="6" dificultad="media">
+			<enunciado>Cuál de los cinco sentidos se desarrolla el primero?</enunciado>
+			<respuesta id="respuesta">olfato</respuesta>
+		</pregunta>
+		<pregunta numero="7" dificultad="media">
+			<enunciado>Cuántas pirámides hay en Egipto: 3, 10, 1000, o 10000?</enunciado>
+			<respuesta id="respuesta">10000</respuesta>
+		</pregunta>
+		<pregunta numero="8" dificultad="dificil">
+			<enunciado>Qué es más valioso: brillante o diamante?</enunciado>
+			<respuesta id="respuesta">brillante</respuesta>
+		</pregunta>
+		<pregunta numero="9" dificultad="dificil">
+			<enunciado>Qué tienen las ranas en la boca que no tienen los sapos?</enunciado>
+			<respuesta id="respuesta">dientes</respuesta>
+		</pregunta>
+		<pregunta numero="10" dificultad="dificil">
+			<enunciado>Cuál es la isla más grande de Costa Rica?</enunciado>
+			<respuesta id="respuesta">Isla Calero</respuesta>
+		</pregunta>
+		<pregunta numero="11" dificultad="dificil">
+			<enunciado>Dime el apellido del inventor de la bombilla incandescente</enunciado>
+			<respuesta id="respuesta">Edison</respuesta>
+		</pregunta>
+		<pregunta numero="12" dificultad="dificil">
+			<enunciado>¿Cómo se llama el canal que cruza de Inglaterra a Francia por debajo del mar?</enunciado>
+			<respuesta id="respuesta">Canal de la Mancha</respuesta>
+		</pregunta>
+		<pregunta numero="13" dificultad="dificil">
+			<enunciado>¿Cuál es el río más caudaloso del mundo?</enunciado>
+			<respuesta id="respuesta">Amazonas</respuesta>
+		</pregunta>
+		
+	</categoria>
+	
+	<categoria nombre="letras">
+		<pregunta numero="0" dificultad="facil">
+			<enunciado>¿En qué comunidad autónoma nace el río Ebro?</enunciado>
+			<respuesta id="respuesta">Cantabria</respuesta>
+		</pregunta>
+		<pregunta numero="1" dificultad="facil">
+			<enunciado>Fue Felipe V de España hijo de Felipe IV?</enunciado>
+			<respuesta id="respuesta">No</respuesta>
+		</pregunta>
+		<pregunta numero="2" dificultad="facil"> 
+			<enunciado>Cómo se dice vino en italiano?</enunciado>
+			<respuesta id="respuesta">Vino</respuesta>
+		</pregunta>
+		<pregunta numero="3" dificultad="facil"> 
+			<enunciado>Cuál es el signo de puntuación más usado?</enunciado>
+			<respuesta id="respuesta">coma</respuesta>
+		</pregunta>
+		<pregunta numero="4" dificultad="media">
+			<enunciado>Cuál es la única capital de país europeo que comienza por "O"?</enunciado>
+			<respuesta id="respuesta">Oslo</respuesta>
+		</pregunta>
+		<pregunta numero="5" dificultad="media">
+			<enunciado>Cuáles son las dos primeras palabras de la Biblia?</enunciado>
+			<respuesta id="respuesta">Al Principio</respuesta>
+		</pregunta>
+		<pregunta numero="6" dificultad="media">
+			<enunciado>Cuántas (en número) capitales de provincia españolas empiezan por "V"?</enunciado>
+			<respuesta id="respuesta">3</respuesta>
+		</pregunta>
+		<pregunta numero="7" dificultad="media">
+			<enunciado>Cuál es el segundo idioma más hablado del mundo?</enunciado>
+			<respuesta id="respuesta">Español</respuesta>
+		</pregunta>
+		<pregunta numero="8" dificultad="dificil">
+			<enunciado>Que palabra designa la oposicion a una corriente electrica en un conductor?</enunciado>
+			<respuesta id="respuesta">Resistencia</respuesta>
+		</pregunta>
+		<pregunta numero="9" dificultad="dificil">
+			<enunciado>Como se llamaba anteriormente Irán?</enunciado>
+			<respuesta id="respuesta">Persia</respuesta>
+		</pregunta>
+		<pregunta numero="10" dificultad="dificil">
+			<enunciado>En que siglo se formo la secta religiosa de los mormones?(en numeros romanos)</enunciado>
+			<respuesta id="respuesta">XIX</respuesta>
+		</pregunta>
+		<pregunta numero="11" dificultad="dificil">
+			<enunciado>¿Qué pintor pintó las meninas?</enunciado>
+			<respuesta id="respuesta">Velazquez</respuesta>
+		</pregunta>
+		<pregunta numero="12" dificultad="dificil">
+			<enunciado>¿En qué año comenzó la II Guerra Mundial?</enunciado>
+			<respuesta id="respuesta">1939</respuesta>
+		</pregunta>
+		<pregunta numero="13" dificultad="dificil">
+			<enunciado>¿En qué país comenzó la Revolución Industrial?</enunciado>
+			<respuesta id="respuesta">Inglaterra</respuesta>
+		</pregunta>	
+		<pregunta numero="14" dificultad="dificil">
+			<enunciado>¿Qué significan las siglas DVD? (En inglés)</enunciado>
+			<respuesta id="respuesta">Digital Versatil Disc</respuesta>
+		</pregunta>
+		<pregunta numero="15" dificultad="dificil">
+			<enunciado>Fin! Enhorabuena por tu puntuación. Dale al botón de terminar para acabar.</enunciado>
+			<respuesta id="respuesta">Terminar</respuesta>
+		</pregunta>	
+	</categoria>
+
+</trivial>

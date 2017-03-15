@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title> Trivial </title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="author" content="David Rodríguez Marco" />
+<link rel="shortcut icon" href="./img/favicon.jpg" />
+<link rel="stylesheet" type="text/css" href="./estilos/estilo_inicio.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="./estilos/estilo_layout.css" media="screen"/>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="./js/funciones.js" type="text/javascript"></script>
+</head>
+<body>
+
+
+<div id="contenido">
+<div id="cabecera">
+	<p id ="banner"><a href="index.html"><img src="./img/trivial.png"/></a></p>
+	<h3></h3>
+</div>
+
+
+<div id="izquierda"></div>
+<div id="derecha"></div>
+
+<div id="central">
+	<div id="modos">
+		<button class="b_modo" type="button" name="clasico" onclick="modo('clasico')">Clásico</button>
+		<button class="b_modo" type="button" name="disney" onclick="modo('disney')">Disney</button>
+	</div>
+	<!--<p id="Inicio">-->
+	<table id="tablatrivial">
+	<tr>
+	<td id="pregunta">Estas listo/a para empezar? Suerte!</td>
+	<td rowspan="3"><p id="puntos">-</p>Puntos Totales<p id="pciencia">Ciencias: </p><p id="pletras">Letras: </p></td>
+	</tr>
+	<br>
+	<tr>
+	<td>
+	<div id="botones">
+	<input type="text" value="" name="texto" size="30px" id="texto" placeholder="Escribe tu respuesta"/><input type="button" value="Comprobar" id="botoncomprobar" onClick="comprobar()"/>
+	<input type="button" value="Empezar" id="botonempezar" onClick="muestra_info()"/><input type="button" value="Siguiente" id="botonsiguiente" onClick="siguiente()"/>
+	<input type="button" value="Terminar" id="botonterminar" onClick="acabar()"/>
+	</div>
+	</td>
+	</tr>
+	<tr>
+	<td>
+	<span id="respuesta" class=""></span>
+	</td>
+	</tr>
+	</table>
+	</p>
+</div>
+<p id="final">
+	Creado y diseñado por DRM
+</p>
+<div id="pie">
+	<center><input type="button" class="arrow" value="Mostrar Puntuaciones"/></center>
+	<div id="cont_puntos">
+		<div id="puntuaciones">
+		</div>
+	</div>	
+</div>
+</div>
+</body>
+</html>

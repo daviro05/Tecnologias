@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE trivial[
+<!ELEMENT trivial (categoria*)>
+<!ELEMENT categoria (pregunta*)>
+<!ELEMENT pregunta (enunciado,respuesta)>
+<!ELEMENT enunciado (#PCDATA)>
+<!ELEMENT respuesta (#PCDATA)>
+<!ATTLIST categoria nombre CDATA #REQUIRED>
+<!ATTLIST pregunta numero CDATA #REQUIRED>
+<!ATTLIST pregunta dificultad CDATA #REQUIRED>
+<!ATTLIST respuesta id CDATA #REQUIRED>]>
+
+<?xml-stylesheet type="text/xsl" href="trivial.xsl"?>
+
+<trivial>	
+	<categoria nombre="ciencias">
+		<pregunta numero="0" dificultad="facil">
+			<enunciado>¿Qué órgano del cuerpo humano produce la bilis?</enunciado>
+			<respuesta id="respuesta">Higado</respuesta>
+		</pregunta>
+		<pregunta numero="1" dificultad="facil">
+			<enunciado>¿De qué color es la sange de los peces?</enunciado>
+			<respuesta id="respuesta">Roja</respuesta>
+		</pregunta>
+		<pregunta numero="2" dificultad="facil"> 
+			<enunciado>¿De donde de saca la sacarina?</enunciado>
+			<respuesta id="respuesta">Carbon</respuesta>
+		</pregunta>
+		<pregunta numero="3" dificultad="facil"> 
+			<enunciado>¿Cuántas caras tiene un icosaedro?(en número)</enunciado>
+			<respuesta id="respuesta">20</respuesta>
+		</pregunta>
+		<pregunta numero="4" dificultad="media">
+			<enunciado>¿Cuál es el hueso más pequeño del cuerpo?</enunciado>
+			<respuesta id="respuesta">Estribo</respuesta>
+		</pregunta>
+		<pregunta numero="5" dificultad="media">
+			<enunciado>¿Qué estudia la icitología?</enunciado>
+			<respuesta id="respuesta">peces</respuesta>
+		</pregunta>
+		<pregunta numero="6" dificultad="media">
+			<enunciado>¿Cuál es el mamífero más grande conocido hasta la actualidad?</enunciado>
+			<respuesta id="respuesta">Ballena Azul</respuesta>
+		</pregunta>
+		<pregunta numero="7" dificultad="media">
+			<enunciado>¿Qué es un equino?</enunciado>
+			<respuesta id="respuesta">Caballo</respuesta>
+		</pregunta>
+		<pregunta numero="8" dificultad="dificil">
+			<enunciado>¿Donde están los meniscos?</enunciado>
+			<respuesta id="respuesta">Rodillas</respuesta>
+		</pregunta>
+		<pregunta numero="9" dificultad="dificil">
+			<enunciado>¿Cómo se llama el nivel más alto de la marea?</enunciado>
+			<respuesta id="respuesta">Pleamar</respuesta>
+		</pregunta>
+		<pregunta numero="10" dificultad="dificil">
+			<enunciado>¿Cómo se mide la fuerza del viento en el mar?</enunciado>
+			<respuesta id="respuesta">Nudos</respuesta>
+		</pregunta>
+		<pregunta numero="11" dificultad="dificil">
+			<enunciado>¿Cuál es el símbolo de Bromo?</enunciado>
+			<respuesta id="respuesta">Br</respuesta>
+		</pregunta>
+		<pregunta numero="12" dificultad="dificil">
+			<enunciado>¿En qué parte del cuerpo se encuentra el tendón de Aquiles?</enunciado>
+			<respuesta id="respuesta">Tobillo</respuesta>
+		</pregunta>
+		<pregunta numero="13" dificultad="dificil">
+			<enunciado>¿Qué metal es líquido a temperatura ambiente?</enunciado>
+			<respuesta id="respuesta">Mercurio</respuesta>
+		</pregunta>
+		
+	</categoria>
+	
+	<categoria nombre="letras">
+		<pregunta numero="0" dificultad="facil">
+			<enunciado>¿Con cuántos países limita Argentina? (en número)</enunciado>
+			<respuesta id="respuesta">5</respuesta>
+		</pregunta>
+		<pregunta numero="1" dificultad="facil">
+			<enunciado>¿Cuál es la capital de Suiza?</enunciado>
+			<respuesta id="respuesta">Berna</respuesta>
+		</pregunta>
+		<pregunta numero="2" dificultad="facil"> 
+			<enunciado>¿Cuántos mangos por lado tiene el futbolín?(en número)</enunciado>
+			<respuesta id="respuesta">4</respuesta>
+		</pregunta>
+		<pregunta numero="3" dificultad="facil"> 
+			<enunciado>¿Quién pintó el cuadro “El jardín de las delicias”?</enunciado>
+			<respuesta id="respuesta">Bosco</respuesta>
+		</pregunta>
+		<pregunta numero="4" dificultad="media">
+			<enunciado>¿Quién vivía en el 221B de Backer Street?</enunciado>
+			<respuesta id="respuesta">Sherlock Holmes</respuesta>
+		</pregunta>
+		<pregunta numero="5" dificultad="media">
+			<enunciado>¿En qué año se estrenó la película de Disney "Pinocho"?</enunciado>
+			<respuesta id="respuesta">1940</respuesta>
+		</pregunta>
+		<pregunta numero="6" dificultad="media">
+			<enunciado>¿Qué se celebra el 8 de Marzo?</enunciado>
+			<respuesta id="respuesta">dia de la mujer</respuesta>
+		</pregunta>
+		<pregunta numero="7" dificultad="media">
+			<enunciado>¿Quién es la mascota de SEGA?</enunciado>
+			<respuesta id="respuesta">Sonic</respuesta>
+		</pregunta>
+		<pregunta numero="8" dificultad="dificil">
+			<enunciado>¿Cuál es considerado por los fans el peor juego de la historia de ATARI?</enunciado>
+			<respuesta id="respuesta">ET</respuesta>
+		</pregunta>
+		<pregunta numero="9" dificultad="dificil">
+			<enunciado>¿A quién se considera el Rey del Pop?</enunciado>
+			<respuesta id="respuesta">Michael Jackson</respuesta>
+		</pregunta>
+		<pregunta numero="10" dificultad="dificil">
+			<enunciado>¿Qué día es San Valentín?</enunciado>
+			<respuesta id="respuesta">14 de febrero</respuesta>
+		</pregunta>
+		<pregunta numero="11" dificultad="dificil">
+			<enunciado>¿En qué año tuvo lugar el ataque a Pearl Harbor?</enunciado>
+			<respuesta id="respuesta">1941</respuesta>
+		</pregunta>
+		<pregunta numero="12" dificultad="dificil">
+			<enunciado>¿Las revueltas de dónde son llamadas Intifadas?</enunciado>
+			<respuesta id="respuesta">Palestina</respuesta>
+		</pregunta>
+		<pregunta numero="13" dificultad="dificil">
+			<enunciado>¿Quién pronunció la frase: "Bebamos de la copa de la destrucción"?</enunciado>
+			<respuesta id="respuesta">Gengis Kan</respuesta>
+		</pregunta>	
+		<pregunta numero="14" dificultad="dificil">
+			<enunciado>El Renacimiento marcó el inicio de la Edad…</enunciado>
+			<respuesta id="respuesta">Moderna</respuesta>
+		</pregunta>
+		<pregunta numero="15" dificultad="dificil">
+			<enunciado>Fin! Enhorabuena por tu puntuación. Dale al botón de terminar para acabar.</enunciado>
+			<respuesta id="respuesta">Terminar</respuesta>
+		</pregunta>	
+	</categoria>
+
+</trivial>

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE trivial[
+<!ELEMENT trivial (categoria*)>
+<!ELEMENT categoria (pregunta*)>
+<!ELEMENT pregunta (enunciado,respuesta)>
+<!ELEMENT enunciado (#PCDATA)>
+<!ELEMENT respuesta (#PCDATA)>
+<!ATTLIST categoria nombre CDATA #REQUIRED>
+<!ATTLIST pregunta numero CDATA #REQUIRED>
+<!ATTLIST pregunta dificultad CDATA #REQUIRED>
+<!ATTLIST respuesta id CDATA #REQUIRED>]>
+
+<?xml-stylesheet type="text/xsl" href="trivial.xsl"?>
+
+<trivial>	
+	<categoria nombre="ciencias">
+		<pregunta numero="0" dificultad="facil">
+			<enunciado>¿A que personaje le gusta escuchar a Elvis Presley?</enunciado>
+			<respuesta id="respuesta">Stitch</respuesta>
+		</pregunta>
+		<pregunta numero="1" dificultad="facil">
+			<enunciado>¿Que dice Buzz Lightyear cuando quiere volar?</enunciado>
+			<respuesta id="respuesta">Hasta el infinito y mas alla</respuesta>
+		</pregunta>
+		<pregunta numero="2" dificultad="facil"> 
+			<enunciado>¿Cómo se hace llamar Mulan en el campamento del ejercito?</enunciado>
+			<respuesta id="respuesta">Ping</respuesta>
+		</pregunta>
+		<pregunta numero="3" dificultad="facil"> 
+			<enunciado>¿En que año crearon a Mickey Mouse?</enunciado>
+			<respuesta id="respuesta">1928</respuesta>
+		</pregunta>
+		<pregunta numero="4" dificultad="media">
+			<enunciado>¿En que ciudad vive Aladdin?</enunciado>
+			<respuesta id="respuesta">Agraba</respuesta>
+		</pregunta>
+		<pregunta numero="5" dificultad="media">
+			<enunciado>¿En que país esta ambientada la pelicula de la Bella y la Bestia?</enunciado>
+			<respuesta id="respuesta">Francia</respuesta>
+		</pregunta>
+		<pregunta numero="6" dificultad="media">
+			<enunciado>¿Como se llama el bosque donde vive Robin Hood?</enunciado>
+			<respuesta id="respuesta">Sherwood</respuesta>
+		</pregunta>
+		<pregunta numero="7" dificultad="media">
+			<enunciado>¿Cuál es la frase de Mary Poppins?</enunciado>
+			<respuesta id="respuesta">Supercalifragilisticuespialidoso</respuesta>
+		</pregunta>
+		<pregunta numero="8" dificultad="dificil">
+			<enunciado>¿Cúal fué el primer largometraje de Disney?</enunciado>
+			<respuesta id="respuesta">Blancanieves</respuesta>
+		</pregunta>
+		<pregunta numero="9" dificultad="dificil">
+			<enunciado>¿Cómo se llama el dragón de Mulán?</enunciado>
+			<respuesta id="respuesta">Mushu</respuesta>
+		</pregunta>
+		<pregunta numero="10" dificultad="dificil">
+			<enunciado>¿Cuál fué la primera persona humana con la que hablo Tarzán?</enunciado>
+			<respuesta id="respuesta">Jane</respuesta>
+		</pregunta>
+		<pregunta numero="11" dificultad="dificil">
+			<enunciado>En Monstruos S.A, de que trabajan los monstruos?</enunciado>
+			<respuesta id="respuesta">asustadores</respuesta>
+		</pregunta>
+		<pregunta numero="12" dificultad="dificil">
+			<enunciado>¿Cómo se llama el hijo de Goofy?</enunciado>
+			<respuesta id="respuesta">Max</respuesta>
+		</pregunta>
+		<pregunta numero="13" dificultad="dificil">
+			<enunciado>¿Cómo se llama la hija de Simba?</enunciado>
+			<respuesta id="respuesta">Kiara</respuesta>
+		</pregunta>
+		
+	</categoria>
+	
+	<categoria nombre="letras">
+		<pregunta numero="0" dificultad="facil">
+			<enunciado>¿Quién es el enemigo de Hércules?</enunciado>
+			<respuesta id="respuesta">Hades</respuesta>
+		</pregunta>
+		<pregunta numero="1" dificultad="facil">
+			<enunciado>¿Cómo se llama el caballo de 'Toy Story 2'?</enunciado>
+			<respuesta id="respuesta">Perdigon</respuesta>
+		</pregunta>
+		<pregunta numero="2" dificultad="facil"> 
+			<enunciado>¿Cómo se llama el Jorobado de Notre-Dame?</enunciado>
+			<respuesta id="respuesta">Quasimodo</respuesta>
+		</pregunta>
+		<pregunta numero="3" dificultad="facil"> 
+			<enunciado>¿Cómo se llama el candelabro de 'La Bella Y La Bestia'?</enunciado>
+			<respuesta id="respuesta">Lumiere</respuesta>
+		</pregunta>
+		<pregunta numero="4" dificultad="media">
+			<enunciado>¿Cuál es el tercer deseo de Aladdin?</enunciado>
+			<respuesta id="respuesta">liberar genio</respuesta>
+		</pregunta>
+		<pregunta numero="5" dificultad="media">
+			<enunciado>¿De qué trabaja Sebastián, el cangrejo de 'La Sirenita'?</enunciado>
+			<respuesta id="respuesta">director de orquesta</respuesta>
+		</pregunta>
+		<pregunta numero="6" dificultad="media">
+			<enunciado>¿Cómo se llama el mono chamán de 'El Rey León'?</enunciado>
+			<respuesta id="respuesta">Rafiki</respuesta>
+		</pregunta>
+		<pregunta numero="7" dificultad="media">
+			<enunciado>¿En qué película cantan la canción... 'Feliz feliz no-cumpleaños'?</enunciado>
+			<respuesta id="respuesta">Alicia en el pais de las maravillas</respuesta>
+		</pregunta>
+		<pregunta numero="8" dificultad="dificil">
+			<enunciado>¿Cúal es el nombre de los pequeños binoculares azules en 'Toy Story'?</enunciado>
+			<respuesta id="respuesta">Lenny</respuesta>
+		</pregunta>
+		<pregunta numero="9" dificultad="dificil">
+			<enunciado>De que película es la siguiente frase: "Estaba escondido debajo del porche porque te quiero".</enunciado>
+			<respuesta id="respuesta">Up</respuesta>
+		</pregunta>
+		<pregunta numero="10" dificultad="dificil">
+			<enunciado>A que película pertenece la frase: "Me recuerdas a alguien que conocí en el mercado".</enunciado>
+			<respuesta id="respuesta">Aladdin</respuesta>
+		</pregunta>
+		<pregunta numero="11" dificultad="dificil">
+			<enunciado>¿De que región costera de Croacia provienen los dálmatas de '101 Dálmatas'?</enunciado>
+			<respuesta id="respuesta">Dalmacia</respuesta>
+		</pregunta>
+		<pregunta numero="12" dificultad="dificil">
+			<enunciado> ¿Que enanito trata de ser besado por Blancanieves repetidas veces?</enunciado>
+			<respuesta id="respuesta">Mudito</respuesta>
+		</pregunta>
+		<pregunta numero="13" dificultad="dificil">
+			<enunciado>¿Cuantas niñas le hacen la trenza a Rapunzel? (En número)</enunciado>
+			<respuesta id="respuesta">4</respuesta>
+		</pregunta>	
+		<pregunta numero="14" dificultad="dificil">
+			<enunciado>¿Que personaje de otra pelicula disney aparece en Aladdin?</enunciado>
+			<respuesta id="respuesta">Sebastian</respuesta>
+		</pregunta>
+		<pregunta numero="15" dificultad="dificil">
+			<enunciado>Fin! Enhorabuena por tu puntuación. Dale al botón de terminar para acabar.</enunciado>
+			<respuesta id="respuesta">Terminar</respuesta>
+		</pregunta>	
+	</categoria>
+
+</trivial>

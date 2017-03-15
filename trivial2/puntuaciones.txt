@@ -1,0 +1,2 @@
+
+<span class=nombre_jugador>J&E&E/DN</span> <span class=tit>Ciencias: </span><span class=puntosp>70</span><span class=tit>Letras: </span><span class=puntosp>130</span><span class=tit>Total: </span><span class=puntosp>200</span><br>
