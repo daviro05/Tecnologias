@@ -1,0 +1,147 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>VozApp</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/file-input.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		<script src="assets/js/custom-file-input.js"></script>
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+		<script>
+		leerPuntuacion();
+
+		function leerPuntuacion(){
+
+		    $.ajax({
+		       url: "leer_colo.php",
+		       type: "post",
+		       data: "data",
+		       success: function(data){
+		           $("#lista_audios_colo").html(data);
+		       }
+		    });
+
+		    $.ajax({
+		       url: "leer_uni.php",
+		       type: "post",
+		       data: "data",
+		       success: function(data){
+		           $("#lista_audios_uni").html(data);
+		       }
+		    });
+		}
+		</script>
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="icon fa-diamond"></span>
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>VozApp</h1>
+								<p>Creada y diseñada por DRM</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#lacolo">La Colo</a></li>
+								<li><a href="#launi">Uni</a></li>
+								<li><a href="#creador">Creador</a></li>
+								<li><a href="#subir">Sube tu voz</a></li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Intro -->
+							<article id="lacolo">
+								<h2 class="major">LA COLO MANDA</h2>
+								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
+								<div id="lista_audios_colo">
+								</div>
+							</article>
+
+						<!-- Work -->
+							<article id="launi">
+								<h2 class="major">LA UNI</h2>
+								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
+								<div id="lista_audios_uni">
+								</div>
+							</article>
+
+						<!-- About -->
+							<article id="creador">
+								<h2 class="major">EL CREADOR</h2>
+								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
+								<p></p>
+							</article>
+
+						<!-- Contact -->
+							<article id="subir">
+								<h2 class="major">Sube tu Voz</h2>
+								<form enctype="multipart/form-data" method="post" action="upload.php">
+									<div class="field half first">
+										<label for="name">Nombre de Voz</label>
+										<input type="text" name="namevoz" id="name" required/>
+									</div>
+									<div class="field half">
+										<label for="file">Fichero</label>
+										<input type="file" name="file-1" id="file-1" class="inputfile inputfile-2" required/>
+										<label for="file-1">
+										<span class="iborrainputfile">Subir Voz</span>
+										</label>
+									</div>
+									<div class="field">
+										<label for="message">Comentario de la Voz</label>
+										<textarea name="message" id="message" rows="4"></textarea>
+									</div>
+									<div class="field">
+										<label for="categoria">Categoría</label>
+										<input type="radio" name="categoria" value="colo" required> La Colo
+										<input type="radio" name="categoria" value="uni"> La Uni<br>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Subir Voz" class="special" /></li>
+										<li><input type="reset" value="Borrar datos" /></li>
+									</ul>
+								</form>
+								<!--<ul class="icons">
+									<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
+								</ul>-->
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; DRMSERIES 2017</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
